@@ -7,8 +7,9 @@ Hi there, I'm Douglas Vinicius! 👋
 
 <div>
     <a href="https://github.com/DouglasVinicius">
-    <img width="450" height="150" src="https://github-readme-stats.vercel.app/api?username=DouglasVinicius&show_icons=true&theme=solarized-dark&include_all_commits=true&cout_private=true"/>
-    <img width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasVinicius&layout=compact&langs_count=16&theme=solarized-dark"/>
+        <img width="430em" height="200em" src="https://github-readme-stats.vercel.app/api?username=DouglasVinicius&show_icons=true&theme=solarized-dark&include_all_commits=true&cout_private=true"/>
+        <img width="520em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasVinicius&layout=compact&langs_count=16&theme=solarized-dark"/>
+    </a>
 </div>
 
 <div style="display: inline_block"><br>
@@ -30,13 +31,5 @@ Hi there, I'm Douglas Vinicius! 👋
     </a>
     <a href="https://www.instagram.com/douglas__vini/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>  
+    </a>
 </div>
-    
-<!--
-https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg
-https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
