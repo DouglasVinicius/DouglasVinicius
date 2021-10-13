@@ -7,8 +7,8 @@ Hi there, I'm Douglas Vinicius! 👋
 
 <div>
     <a href="https://github.com/DouglasVinicius">
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=DouglasVinicius&show_icons=true&theme=solarized-dark&include_all_commits=true&cout_private=true"/>
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasVinicius&layout=compact&langs_count=16&theme=solarized-dark"/>
+    <img width="450" height="150" src="https://github-readme-stats.vercel.app/api?username=DouglasVinicius&show_icons=true&theme=solarized-dark&include_all_commits=true&cout_private=true"/>
+    <img width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasVinicius&layout=compact&langs_count=16&theme=solarized-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
