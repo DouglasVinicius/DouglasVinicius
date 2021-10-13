@@ -5,21 +5,21 @@ Hi there, I'm Douglas Vinicius! 👋
 - 🌱 I’m currently learning Python and PostgreSQL
 - 😄 Pronouns: he/his
 
-<div>
+<div><br>
     <a href="https://github.com/DouglasVinicius">
         <img width="350em" src="https://github-readme-stats.vercel.app/api?username=DouglasVinicius&show_icons=true&theme=solarized-dark&include_all_commits=true&cout_private=true"/>
         <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasVinicius&layout=compact&langs_count=16&theme=solarized-dark"/>
     </a>
 </div>
 
-<div style="display: inline_block"><br>
+<div>
     <img allign="center" alt="Douglas-C height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
     <img allign="center" alt="Douglas-CPP height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
     <img allign="center" alt="Douglas-Python height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
     <img allign="center" alt="Douglas-Linux height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
 </div>
 
-<div>
+<div><br>
     <a href="dv.dullius@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
