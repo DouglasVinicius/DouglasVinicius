@@ -22,7 +22,7 @@
 ##
 
 <div><br>
-    <a href="dv.dullius@gmail.com">
+    <a href="mailto:dv.dullius@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/douglas-dullius-932695220/">
