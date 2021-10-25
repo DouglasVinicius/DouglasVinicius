@@ -2,7 +2,7 @@
 
 - Computer Science student at Federal University of Pampa (UNIPAMPA)
 - 🔭 I’m currently searching for a work
-- 🌱 I’m currently learning Python and PostgreSQL
+- 🌱 I’m currently learning PostgreSQL and Django
 - 😄 Pronouns: he/his
 ##
 <div><br>
@@ -16,6 +16,7 @@
     <img allign="center" alt="Douglas-C height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
     <img allign="center" alt="Douglas-CPP height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
     <img allign="center" alt="Douglas-Python height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+    <img allign="center" alt="Douglas-Python height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
     <img allign="center" alt="Douglas-Linux height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
 </div>
 
