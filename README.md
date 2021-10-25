@@ -16,8 +16,10 @@
     <img allign="center" alt="Douglas-C height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
     <img allign="center" alt="Douglas-CPP height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
     <img allign="center" alt="Douglas-Python height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-    <img allign="center" alt="Douglas-Python height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
+    <img allign="center" alt="Douglas-Postgres height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
     <img allign="center" alt="Douglas-Linux height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
+    <img allign="center" alt="Douglas-Git height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+    <img allign="center" alt="Douglas-Github height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 </div>
 
 ##
