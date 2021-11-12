@@ -2,7 +2,7 @@
 
 - Computer Science student at Federal University of Pampa (UNIPAMPA)
 - 🔭 I’m currently searching for a work
-- 🌱 I’m currently learning PostgreSQL and Django
+- 🌱 I’m currently learning PostgreSQL, Git and Django
 - 😄 Pronouns: he/his
 ##
 <div><br>
