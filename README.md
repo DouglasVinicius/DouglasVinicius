@@ -1,8 +1,8 @@
 ## Hi there, I'm Douglas Vinicius! 👋
 
 - Computer Science student at Federal University of Pampa (UNIPAMPA)
-- 🔭 I’m currently searching for a work
-- 🌱 I’m currently learning PostgreSQL, Git and Django
+- 🔭 I’m currently working at Leaf Agriculture
+- 🌱 I’m currently learning Java, Git and Spring Boot
 - 😄 Pronouns: he/his
 ##
 <div><br>
